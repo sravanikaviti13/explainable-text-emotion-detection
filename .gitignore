@@ -9,7 +9,7 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data / model artifacts (not distributed with the repo)
+# Data/model artifacts (not distributed with the repo)
 data/
 *.pt
 *.bin

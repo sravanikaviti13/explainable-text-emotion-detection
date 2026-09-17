@@ -27,7 +27,7 @@ a text can carry more than one):
 - **Human evaluation**: a manually-labeled subset of the test data, compared against model
   predictions, to gauge how well the model's notion of "emotion" matches human judgment.
 
-<img src="assets/pipeline_flowchart.png" alt="Project pipeline: data, tokenization, model retraining, evaluation, SHAP" width="700">
+<img src="assets/flowchart_pipeline.png" alt="Project pipeline: data, tokenization, model retraining, evaluation, SHAP" width="700">
 
 ## Repo structure
 
