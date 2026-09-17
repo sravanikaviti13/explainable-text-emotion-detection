@@ -2,7 +2,7 @@
 
 Multi-label emotion classification on text, fine-tuning transformer language models
 (RoBERTa, ALBERT) on the [SemEval 2025 Task 11-A](https://semeval.github.io/SemEval2025/) dataset,
-with model explainability via SHAP and a human-evaluation comparison. ( "Originally completed in 2025")
+with model explainability via SHAP and a human-evaluation comparison. ( Originally completed in 2025 )
 
 ## Problem
 
