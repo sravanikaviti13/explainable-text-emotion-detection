@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / model artifacts (not distributed with the repo)
+data/
+*.pt
+*.bin
+*.ckpt
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
